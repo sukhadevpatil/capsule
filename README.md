@@ -1,2 +1,2 @@
 # capsule
-Cmpany capsule program
+Company capsule program
